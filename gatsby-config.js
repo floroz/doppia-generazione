@@ -18,11 +18,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Doppia generazione`,
+        short_name: `@doppiagenerazione`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#1d71b8`,
+        theme_color: `#ffe966`,
         display: `minimal-ui`,
         icon: `src/images/doppiag-logo.png`, // This path is relative to the root of the site.
       },
