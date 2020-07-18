@@ -1,0 +1,46 @@
+.logo {
+  max-width: 200px;
+}
+
+.title {
+  font-weight: 700;
+  color: var(--secondary-color);
+  margin-bottom: 4rem;
+
+  a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    font-size: 2rem;
+  }
+
+  a::visited {
+    color: var(--secondary-color);
+  }
+}
+
+.hero {
+  border: 1px solid var(--secondary-color);
+  padding: 4rem 2rem;
+  color: var(--secondary-color);
+  height: auto;
+  max-width: 40rem;
+  margin-bottom: 2.5rem;
+
+  h2 {
+    font-size: 3rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+
+  p {
+    font-size: 2rem;
+    text-align: center;
+  }
+}
+
+.spotify {
+  border: none;
+  overflow: hidden;
+  margin-bottom: 2.5rem;
+  margin-left: 5%;
+}

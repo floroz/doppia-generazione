@@ -1,0 +1,19 @@
+.title {
+  font-size: 4.5rem;
+  color: var(--secondary-color);
+  margin: 5rem 0;
+}
+
+.link {
+  font-size: 3rem;
+  color: var(--secondary-color);
+  text-decoration: none;
+  border: 1px solid var(--secondary-color);
+  padding: 3rem;
+  border-radius: 15px;
+
+  &::visited {
+    text-decoration: none;
+    color: var(--secondary-color);
+  }
+}
