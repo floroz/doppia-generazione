@@ -32,7 +32,7 @@ const IndexPage = () => {
           nasce con l'obiettivo di colmare un gap informativo e generazionale
           nel mondo dell'imprenditoria italiana, focalizzandosi su modelli di
           business duraturi e radicati ma, allo stesso tempo, sull'affermarsi di
-          realta' imprenditoriali 2.0, vogliose di cambiamento e nuove
+          realtà imprenditoriali 2.0, vogliose di cambiamento e nuove
           opportunità
         </p>
       </div>
